@@ -6,7 +6,7 @@ import starlight from '@astrojs/starlight';
 export default defineConfig({
 	integrations: [
 		starlight({
-			title: 'My Docs',
+			title: 'STBW',
 			social: [{ icon: 'github', label: 'GitHub', href: 'https://github.com/samyou-softwire/stbw-docs' }],
 			sidebar: [
 				{
